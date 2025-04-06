@@ -46,14 +46,17 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
-![](./images/a6.png)
+![image](https://github.com/user-attachments/assets/7c25bfdc-daef-481a-bce7-24fd0781ebca)
 
-![](./images/a7.png)
+
+![image](https://github.com/user-attachments/assets/1fe7fff0-2b0a-47be-86b2-0a135f832d8b)
+
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![](./images/a8.png)
+![image](https://github.com/user-attachments/assets/04ba5176-8a00-4a75-9802-490b10e2427a)
+
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
@@ -61,13 +64,15 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ## Output :
 ### Folder before deleting the files
-![](./images/f1.png)
+![image](https://github.com/user-attachments/assets/d524986a-5ef4-4df2-870f-229db23a8085)
+
 
 ### Folder after deleting the files
 ![](./images/a9.png)
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+![image](https://github.com/user-attachments/assets/0e8a241e-ff65-46fc-b3f7-7e7828a7c004)
+
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
