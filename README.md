@@ -68,7 +68,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 
 ### Folder after deleting the files
-![](./images/a9.png)
+![image](https://github.com/user-attachments/assets/499bdfef-e712-4833-ab3f-ceefdd7a17f5)
+
 
 ### Folder after extracting the deleted images using autopsy
 ![image](https://github.com/user-attachments/assets/0e8a241e-ff65-46fc-b3f7-7e7828a7c004)
